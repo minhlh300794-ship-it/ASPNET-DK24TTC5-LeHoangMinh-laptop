@@ -22,7 +22,7 @@ ORM: Entity Framework
 Cơ sở dữ liệu: SQL Server 
 Giao diện: HTML, CSS, JavaScript, Bootstrap
 
-Cấu trúc thư mục dự án
+4.Cấu trúc thư mục dự án
 src/: Mã nguồn chính của Website (ASP.NET).
 thesis/: Các file báo cáo (Word, PDF)
 progress-report/: Báo cáo tiến độ.
