@@ -10,4 +10,8 @@ MSSV: 170124485
 Email: minhlh300794@tvu-onschool.edu.vn
 
 Số điện thoại: 0948182545
+
 1.Giới thiệu Đồ án này trình bày quá trình nghiên cứu, thiết kế và xây dựng một hệ thống website thương mại điện tử chuyên biệt cho lĩnh vực bán lẻ thiết bị công nghệ (laptop). 
+
+2.Mục tiêu Đối với người dùng: Cung cấp công cụ tìm kiếm về laptop nhanh chóng, cung cấp thông tin của sản phẩm như CPU, Ram, Card đồ họa, cập nhật thông tin giao hàng.
+Đối với quản trị: Quản lý hiệu quả danh mục thương hiệu, cập nhật thông tin sản phẩm, hình ảnh sản phẩm, giá sản phẩm. Quản lý xét duyệt đơn hàng. Xem được thống kê về doanh thu.
