@@ -1,0 +1,46 @@
+﻿@model IEnumerable<LaptopWebsite.Models.Order>
+@{ ViewBag.Title = "Quản lý Đơn hàng"; }
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 bg-dark text-white">
+        <h5 class="m-0 font-weight-bold"><i class="fas fa-list-alt"></i> Danh sách Đơn hàng</h5>
+    </div>
+    <div class="card-body">
+        <table class="table table-bordered table-hover align-middle">
+            <thead class="table-light">
+                <tr>
+                    <th>Mã Đơn</th>
+                    <th>Khách hàng</th>
+                    <th>Ngày đặt</th>
+                    <th>Tổng tiền</th>
+                    <th>Trạng thái</th>
+                    <th>Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="fw-bold">#@item.OrderId</td>
+                        <td>@item.User.FullName</td>
+                        <td>@item.OrderDate.ToString("dd/MM/yyyy HH:mm")</td>
+                        <td class="text-danger fw-bold">@item.TotalAmount.ToString("N0") đ</td>
+                        <td>
+                            @if (item.Status == "Chờ xử lý")
+                            {<span class="badge bg-warning text-dark">@item.Status</span> }
+                        else if (item.Status == "Đang giao")
+                        { <span class="badge bg-info text-dark">@item.Status</span> }
+                    else
+                    { <span class="badge bg-success">@item.Status</span>}
+                        </td>
+                        <td>
+                            <a href="@Url.Action("Details", "Orders", new { id = item.OrderId })" class="btn btn-sm btn-outline-primary">
+                                <i class="fas fa-eye"></i> Xem chi tiết
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,21 @@
+# 09/04/2026
+Nội dung công việc: Hoàn thiện hệ thống (Giao diện, Chức năng, Cơ sở dữ liệu).
+Về Cơ sở dữ liệu:
+Hoàn thiện sơ đồ quan hệ thực thể (Database Diagram) bao gồm các bảng cốt lõi: MigrationHistory,Categories,OrderDetails,Orders,Products,Users.
+Về Giao diện: các công nghệ hỗ trợ giao diện (Front-end Technologies)
+Xây dựng dựa trên sự kết hợp của nhiều thư viện Front-end tiên tiến:Bootstrap 5, Chart.js 
+Xây dựng các trang chính: trang chủ: banner, thanh tìm kiếm, thông tin sản phẩm, phần đăng nhập, đăng ký. 
+Cập nhật hình ảnh banner, hình ảnh sản phẩm.
+Cơ chế xác thực người dùng bằng cách đăng nhập tài khoản và mật khẩu. Thông báo sai thông tin khi nhập sai.
+Đăng nhập bằng tài khoản khách: xem được chi tiết sản phẩm mình muốn, cập nhật thông tin để được giao hàng.
+Đăng nhập bằng tài khoản Quản trị viên: quản lý được danh mục thương hiệu và sản phẩm, quản lý được đơn hàng cập nhật trạng thái đơn hàng, thống kê được doanh thu.
+Chạy thử nghiệm website: đăng nhập tài khoản khách hàng đặt sản phẩm. Đăng nhập tài khoản Quản trị viên để kiểm tra đơn hàng.
+
+# 20/04/2026
+Nội dung công việc: Tổng hợp và Cập nhật hồ sơ đồ án
+Cập nhật file báo cáo Word:
+Hệ thống hóa lại toàn bộ lý thuyết về kiến trúc ASP.NET MVC, công nghệ Entity Framework, kỹ thuật Code First và hệ quản trị SQL Server.
+Viết chi tiết chương "Hiện thực hóa nghiên cứu", mô tả bài toán, yêu cầu chức năng, mô hình cơ sở dữ liệu, lược đồ Use Case.
+Chụp ảnh màn hình các kết quả đạt được (Trang chủ, Phân hệ khách hàng, phân hệ Quản trị viên) và đưa vào báo cáo để minh chứng cho sản phẩm.
+Kết luận các kết quả đạt được và hạn chế.
+Đề xuất hướng phát triển trong tương lai.

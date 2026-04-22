@@ -1,0 +1,170 @@
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\LaptopWebsite.dll.config
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\LaptopWebsite.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\LaptopWebsite.pdb
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\csc.exe
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\csc.exe.config
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\csc.rsp
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\csi.exe
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\csi.exe.config
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\csi.rsp
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Console.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Net.Http.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\vbc.exe
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\vbc.exe.config
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\vbc.rsp
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\Antlr3.Runtime.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\EntityFramework.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\Newtonsoft.Json.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.Helpers.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.Mvc.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.Optimization.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.Razor.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.WebPages.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\WebGrease.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\EntityFramework.xml
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.Helpers.xml
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.Mvc.xml
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.Optimization.xml
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.Razor.xml
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.WebPages.xml
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\Newtonsoft.Json.xml
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWebsite.csproj.AssemblyReference.cache
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWebsite.csproj.CoreCompileInputs.cache
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWe.642A7D5B.Up2Date
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWebsite.dll
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWebsite.pdb
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWebsite.Migrations.InitialCreate.resources
+C:\Users\tranhuylong\source\repos\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWebsite.csproj.GenerateResource.cache
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\LaptopWebsite.dll.config
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\LaptopWebsite.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\LaptopWebsite.pdb
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\csc.exe
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\csc.exe.config
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\csc.rsp
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\csi.exe
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\csi.exe.config
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\csi.rsp
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.AppContext.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Console.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Globalization.Calendars.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.IO.Compression.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.IO.FileSystem.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Net.Http.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Net.Sockets.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.ValueTuple.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Xml.XPath.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\vbc.exe
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\vbc.exe.config
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\vbc.rsp
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\VBCSCompiler.exe
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\Antlr3.Runtime.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\EntityFramework.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\EntityFramework.SqlServer.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\Microsoft.Web.Infrastructure.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\Newtonsoft.Json.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.Helpers.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.Mvc.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.Optimization.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.Razor.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.WebPages.Deployment.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.WebPages.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.WebPages.Razor.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\WebGrease.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\EntityFramework.xml
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\EntityFramework.SqlServer.xml
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.Helpers.xml
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.Mvc.xml
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.Optimization.xml
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.Razor.xml
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.WebPages.xml
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.WebPages.Deployment.xml
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\System.Web.WebPages.Razor.xml
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\Newtonsoft.Json.xml
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\Antlr3.Runtime.pdb
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWebsite.csproj.AssemblyReference.cache
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWebsite.Migrations.InitialCreate.resources
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWebsite.csproj.GenerateResource.cache
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWebsite.csproj.CoreCompileInputs.cache
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWe.642A7D5B.Up2Date
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWebsite.dll
+D:\CHUYEN DE\LaptopWebsite\LaptopWebsite\LaptopWebsite\LaptopWebsite\obj\Debug\LaptopWebsite.pdb

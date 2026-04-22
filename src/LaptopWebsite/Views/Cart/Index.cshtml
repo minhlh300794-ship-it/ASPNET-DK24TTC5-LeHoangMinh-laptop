@@ -1,0 +1,57 @@
+﻿@model IEnumerable<LaptopWebsite.Models.CartItem>
+@{ ViewBag.Title = "Giỏ hàng của bạn"; }
+
+<div class="container mt-4">
+    <h2><i class="fas fa-shopping-cart text-primary"></i> Giỏ hàng</h2>
+    <hr />
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-hover align-middle">
+            <thead class="table-light">
+                <tr>
+                    <th>Sản phẩm</th>
+                    <th>Hình ảnh</th>
+                    <th>Giá</th>
+                    <th>Số lượng</th>
+                    <th>Thành tiền</th>
+                    <th>Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td><strong>@item.ProductName</strong></td>
+                        <td><img src="@item.ImageUrl" width="80" class="rounded border" /></td>
+                        <td>@item.Price.ToString("N0") đ</td>
+                        <td>@item.Quantity</td>
+                        <td class="text-danger fw-bold">@item.TotalPrice.ToString("N0") đ</td>
+                        <td>
+                            <a href="@Url.Action("RemoveFromCart", "Cart", new { id = item.ProductId })" class="btn btn-sm btn-outline-danger">
+                                <i class="fas fa-trash"></i> Xóa
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="row mt-4">
+            <div class="col-md-6">
+                <a href="@Url.Action("Index", "Home")" class="btn btn-outline-secondary">Tiếp tục mua hàng</a>
+            </div>
+            <div class="col-md-6 text-end">
+                <h4>Tổng tiền: <span class="text-danger">@ViewBag.TotalAmount.ToString("N0") VNĐ</span></h4>
+                <a href="@Url.Action("Checkout", "Cart")" class="btn btn-success btn-lg px-5 mt-2">Tiến hành đặt hàng</a>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info text-center py-5">
+            <h4>Giỏ hàng đang trống!</h4>
+            <a href="@Url.Action("Index", "Home")" class="btn btn-primary mt-3">Quay lại mua sắm ngay</a>
+        </div>
+    }
+</div>

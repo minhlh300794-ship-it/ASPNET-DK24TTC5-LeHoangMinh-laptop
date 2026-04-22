@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+        /* Hiệu ứng nổi lên cho thẻ sản phẩm */
+        .product-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+            .product-card:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 10px 20px rgba(0,0,0,0.15) !important;
+            }
+
+        /* Chỉnh sửa lại Navbar cho hiện đại hơn */
+        .navbar {
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        /* Đảm bảo nội dung chính luôn đẩy Footer xuống đáy trang */
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        .main-content {
+            flex: 1;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
+        <div class="container">
+            @Html.ActionLink("Laptop Website", "Index", "Home", new { area = "" }, new { @class = "navbar-brand fw-bold" })
+            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li>@Html.ActionLink("Trang chủ", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+
+                    @* Nếu là Admin thì hiện thêm lối tắt vào trang quản trị *@
+                    @if (Session["Role"] != null && Session["Role"].ToString() == "Admin")
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-warning fw-bold" href="@Url.Action("Index", "Products", new { area = "Admin" })">
+                                <i class="fas fa-user-shield"></i> Quản trị hệ thống
+                            </a>
+                        </li>
+                    }
+                </ul>
+
+                <ul class="navbar-nav">
+                    @if (Session["UserId"] != null)
+                    {
+                        @* Hiển thị khi đã đăng nhập *@
+                        <li class="nav-item">
+                            <span class="nav-link text-light">Xin chào, <b>@Session["FullName"]</b></span>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link btn btn-outline-danger btn-sm ms-2" href="@Url.Action("Logout", "Account", new { area = "" })">
+                                Đăng xuất
+                            </a>
+                        </li>
+                    }
+                    else
+                    {
+                        @* Hiển thị khi chưa đăng nhập *@
+                        <li class="nav-item">
+                            @Html.ActionLink("Đăng nhập", "Login", "Account", new { area = "" }, new { @class = "nav-link" })
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Đăng ký</a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+    </div>
+
+    <footer class="bg-dark text-light pt-5 mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 mb-4">
+                    <h5 class="text-uppercase fw-bold text-primary mb-3">Laptop Website</h5>
+                    <p>Hệ thống bán lẻ laptop chính hãng hàng đầu. Cung cấp các sản phẩm chất lượng cao với giá cả cạnh tranh và dịch vụ bảo hành tận tâm.</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <h5 class="text-uppercase fw-bold mb-3">Hỗ trợ khách hàng</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="#" class="text-light text-decoration-none">Hướng dẫn mua hàng</a></li>
+                        <li><a href="#" class="text-light text-decoration-none">Chính sách bảo hành</a></li>
+                        <li><a href="#" class="text-light text-decoration-none">Chính sách đổi trả</a></li>
+                        <li><a href="#" class="text-light text-decoration-none">Giao hàng & Thanh toán</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <h5 class="text-uppercase fw-bold mb-3">Liên hệ</h5>
+                    <p><i class="fas fa-map-marker-alt me-2"></i> Trường Đại học Trà Vinh</p>
+                    <p><i class="fas fa-envelope me-2"></i> minhlh300794@tvu-onschool.edu.vn</p>
+                    <p><i class="fas fa-phone me-2"></i> Hotline: 1900 1234</p>
+                </div>
+            </div>
+            <hr class="mb-4">
+            <div class="row align-items-center">
+                <div class="col-md-7 col-lg-8">
+                    <p> Bản quyền © 2026 Laptop Website. Đồ án môn học ASP.NET.</p>
+                </div>
+                <div class="col-md-5 col-lg-4 text-center text-md-end">
+                    <a href="#" class="text-light me-3 fa-2x"><i class="fab fa-facebook"></i></a>
+                    <a href="#" class="text-light me-3 fa-2x"><i class="fab fa-youtube"></i></a>
+                    <a href="#" class="text-light fa-2x"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
