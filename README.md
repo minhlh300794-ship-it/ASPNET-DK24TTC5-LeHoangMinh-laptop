@@ -15,3 +15,9 @@ Số điện thoại: 0948182545
 
 2.Mục tiêu Đối với người dùng: Cung cấp công cụ tìm kiếm về laptop nhanh chóng, cung cấp thông tin của sản phẩm như CPU, Ram, Card đồ họa, cập nhật thông tin giao hàng.
 Đối với quản trị: Quản lý hiệu quả danh mục thương hiệu, cập nhật thông tin sản phẩm, hình ảnh sản phẩm, giá sản phẩm. Quản lý xét duyệt đơn hàng. Xem được thống kê về doanh thu.
+
+3.Công nghệ sử dụng Ngôn ngữ: C# (C-Sharp) 
+Framework: ASP.NET MVC 
+ORM: Entity Framework 
+Cơ sở dữ liệu: SQL Server 
+Giao diện: HTML, CSS, JavaScript, Bootstrap
